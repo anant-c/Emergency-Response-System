@@ -17,25 +17,25 @@ can be inclusive, safe, resilient, and sustainable.
 
 - **ESP8266**:  Low-cost Wi-Fi microcontroller, with built-in TCP/IP networking software, and microcontroller capability.
   
-<img src="https://github.com/codedmachine111/ERS/assets/88738817/be980873-1e6e-46e1-8ad1-abe452e3001b" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/anant-c/Emergency-Response-System/assets/88738817/be980873-1e6e-46e1-8ad1-abe452e3001b" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 - **MPU6050**:  MPU6050 sensor module is complete 6-axis Motion Tracking Device. It combines 3-axis Gyroscope, 3-axis Accelerometer and Digital Motion Processor all in small package. 
 Also, it has additional feature of on-chip Temperature sensor. It has I2C bus interface to communicate with the microcontrollers.  
 
-<img src="https://github.com/codedmachine111/ERS/assets/88738817/82d68208-a608-4c9e-a4d8-b0fdbd80803e" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/anant-c/Emergency-Response-System/assets/88738817/82d68208-a608-4c9e-a4d8-b0fdbd80803e" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **HC-SR04**:  High-Conductance ultrasonic sensor, which consists of a transmitter and receiver. The sensor measures how far things are without touching them, and it uses sound waves to get the measurements right. Good for testing environment only!  
 
-<img src="https://github.com/codedmachine111/ERS/assets/88738817/6dc6fbd5-d488-4c9c-bb95-fd40d1349506" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/anant-c/Emergency-Response-System/assets/88738817/6dc6fbd5-d488-4c9c-bb95-fd40d1349506" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **NEO-6M GPS**:  This module be used in applications requiring global positioning and navigation, like automotive vehicles, drones, pets, etc.  
 
-<img src="https://github.com/codedmachine111/ERS/assets/88738817/5a35cf52-0ad4-4b50-881a-13c69c518ec6" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/anant-c/Emergency-Response-System/assets/88738817/5a35cf52-0ad4-4b50-881a-13c69c518ec6" height="200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Installation steps
 
-1. - Fork the [repo](https://github.com/codedmachine111/ERS)
-   - Clone the repo to your local machine `git clone https://github.com/codedmachine111/ERS.git`
+1. - Fork the [repo](https://github.com/anant-c/Emergency-Response-System.git)
+   - Clone the repo to your local machine `git clone https://github.com/anant-c/Emergency-Response-System.git`
    - Change current directory `cd cargo`
 2. Install [Platform.io for VS Code](https://platformio.org/install/ide?install=vscode)
 
